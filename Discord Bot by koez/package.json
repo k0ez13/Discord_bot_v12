@@ -1,0 +1,53 @@
+{
+  "name": "Bot by koez",
+  "version": "3.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/bot.js",
+    "lavalink": "java -jar Lavalink.jar",
+    "start": "node ./src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0ez13/Discord_bot_v12"
+  },
+  "keywords": [
+    "porn"
+  ],
+  "author": "Koez",
+  "license": "ISC",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "bufferutil": "^4.0.1",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.2.0",
+    "superagent": "^5.2.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "novelcovid": "^2.2.0",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "urban": "^0.3.2",
+    "user-instagram": "^2.0.9",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.2.0",
+    "ytdl-core-discord": "^1.2.1",
+    "ytpl": "^0.2.3",
+    "@vitalets/google-translate-api": "4.0.0",
+    "erela.js": "1.1.8",
+    "firebase": "^7.20.0",
+    "jimp": "0.16.1",
+    "moment": "^2.27.0",
+    "ms": "2.1.2",
+    "parse-ms": "2.1.0",
+    "path": "0.12.7",
+    "steam-provider": "0.3.2",
+    "util": "0.12.3"
+  }
+}
