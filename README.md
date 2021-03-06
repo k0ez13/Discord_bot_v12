@@ -6,7 +6,10 @@ create a file called .env the things below with their values!
 
 
 DISCORD_BOT_PREFIX= 
+
 DISCORD_BOT_TOKEN= 
+
 STEAM= 
+
 YOUTUBE_API_KEY= 
 
